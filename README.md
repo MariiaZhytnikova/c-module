@@ -13,4 +13,4 @@ Each module focuses on different aspects of modern C++.
 - **Module 06 – Casting**: static_cast, dynamic_cast, reinterpret_cast.
 - **Module 07 – Templates**: function/class templates.
 - **Module 08 – STL**: containers, iterators, algorithms.
-- **Module 09 – PmergeMe & RPN**: parsing, advanced containers.
+- **Module 09 – PmergeMe, BTC & RPN**: parsing, advanced containers.
